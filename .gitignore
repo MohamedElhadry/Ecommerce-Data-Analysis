@@ -1,0 +1,12 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.vscode/
+
+# Dataset files are downloaded separately
+data/raw/*.csv
+data/processed/*.csv

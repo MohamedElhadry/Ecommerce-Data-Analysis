@@ -1,0 +1,15 @@
+BRAZILIAN E-COMMERCE BUSINESS INSIGHTS
+==================================================
+
+Total product revenue: 13,591,643.70
+Total items sold: 112,650
+Average item price: 120.65
+Average customer review score: 4.09 / 5
+Delivered orders: 96,478
+Delivered orders rate: 97.02%
+
+NOTES:
+- Revenue here is calculated from product item prices.
+- Shipping costs are analyzed separately.
+- Delivery analysis includes delivered orders with valid dates.
+- Review scores are averaged across available reviews.
